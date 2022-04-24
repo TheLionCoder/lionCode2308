@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lionCode2308
+- 👋 Hi, I’m @lionCoder
 - 👀 I’m interested in python and every other stuff related.
 - 🌱 I’m currently learning python, git, and everything about dataScience.
 - 💞️ I’m looking to collaborate on projects that can help me to reach all my goals.
